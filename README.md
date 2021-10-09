@@ -29,7 +29,6 @@ Customers need to register in order to book a room in a hotel from 1 day to 10 d
     <li>Jenkins
 </ul>
 
-
 ## Features
 <h4>Admin:</h4>
 <ul>
